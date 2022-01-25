@@ -1,0 +1,10 @@
+{"id": 1,"questions": "Who was the  first woman programmer?","answers": ['a.Ada Lovelace', 'b.Lady Gaga','c.Marylin Monroe','d.Mercè Rodoreda'],"solutions": 1}
+{"id": 2,"questions": "What is the percentage of women researchers in the world?","answers": ['a.20%', 'b.30%','c.15%','d.90%'],"solutions": 2}
+{"id": 3,"questions": "Who was the first spanish enginner woman?","answers": ['a.Pilar Careaga y Basage', 'b.Isabel Domènech','c.Frida Kalho','d.Janis Joplin'],"solutions": 1}
+{"id": 4,"questions": "Who was the forerunner of WiFi, GPS and Bluetooth?","answers": ['a.Hedy Lamarr', 'b.Alyus Ojeda','c.Meryl Streep','d.Angela Luis Robles'],"solutions": 1}
+{"id": 5,"questions": "Which woman is known as The mother of the Internet?","answers": ['a.Radia Joy Perlman', 'b.Suzanne York','c.Angela Merkel','d.Susan Wojcicki'],"solutions": 1}
+{"id": 6,"questions": "Which woman coined the term cyberpunk?","answers": ['a.Radia Joy Perlman', 'b.Jude Milhon','c.Vanesa Ràfols','d.Liza Minelli'],"solutions": 2}
+{"id": 7,"questions": "What is the percentage of women researchers in the world?","answers": ['a.Pilar Careaga y Basage', 'b.Isabel Domènech','c.Frida Kalho','d.Mary Allen Wilkes'],"solutions": 4}
+{"id": 8,"questions": "Who was the pioneer of microelectronic chips?","answers": ['a.Rita Hayworth', 'b.Alyus Ojeda','c.Lynn Conway','d.Mary Allen Wilkes'],"solutions": 3}
+{"id": 9,"questions": "Which woman won the Nobel Prize in Physics for her research on radioactivity?","answers":['a.Marie Curie','b.Sharon Tate','c.Justine Perlham','d.Sofia Loren'],"solutions": 1}
+{"id": 10,"questions": "Who was the first woman to preside over the American Physical Society?","answers": ['a.Lyza Overcraft','b.Virginia Wolff','c.Chien-Chiung Wu','d.Ampar Moliner'],"solutions": 3}

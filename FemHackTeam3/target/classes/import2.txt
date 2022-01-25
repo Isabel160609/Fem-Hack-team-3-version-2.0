@@ -1,0 +1,15 @@
+insert into user (id_user, name, email,score) values (1,'Vanesa','vanraf@yahoo.es',0);
+
+insert into question (id, questions, answers, solutions,user_id) values (null,'Who was the  first woman programmer?',"['a.Ada Lovelace', 'b.Lady Gaga','c.Marylin Monroe','d.Mercè Rodoreda']",1,1);
+insert into question (id, questions, answers, solutions,user_id) values (null,'What is the percentage of women researchers in the world?',"['a.20%', 'b.30%','c.15%','d.90%']",2,1); 
+insert into question (id, questions, answers, solutions,user_id) values (null,'Who was the first spanish enginner woman?',"['a.Pilar Careaga y Basage', 'b.Isabel Domènech','c.Frida Kalho','d.Janis Joplin']",1,1);
+insert into question (id, questions, answers, solutions,user_id) values (null,'Who was the forerunner of WiFi, GPS and Bluetooth?',"['a.Hedy Lamarr', 'b.Alyus Ojeda','c.Meryl Streep','d.Angela Luis Robles']",1,1);
+insert into question (id, questions, answers, solutions,user_id) values (null,'Which woman is known as "The mother of the Internet?',"['a.Radia Joy Perlman', 'b.Suzanne York','c.Angela Merkel','d.Susan Wojcicki']",1,1);
+insert into question (id, questions, answers, solutions,user_id) values (null,'Which woman coined the term cyberpunk?',"['a.Radia Joy Perlman', 'b.Jude Milhon','c.Vanesa Ràfols','d.Liza Minelli']",2,1);
+insert into question (id, questions, answers, solutions,user_id) values (null,'What is the percentage of women researchers in the world?',"['a.Pilar Careaga y Basage', 'b.Isabel Domènech','c.Frida Kalho','d.Mary Allen Wilkes']",4,1);
+insert into question (id, questions, answers, solutions,user_id) values (null,'Who was the pioneer of microelectronic chips?',"['a.Rita Hayworth', 'b.Alyus Ojeda','c.Lynn Conway','d.Mary Allen Wilkes']",3,1);
+insert into question (id, questions, answers, solutions,user_id) values (null,'Which woman won the Nobel Prize in Physics for her research on radioactivity?',"['a.Marie Curie','b.Sharon Tate','c.Justine Perlham','d.Sofia Loren']",1,1);
+insert into question (id, questions, answers, solutions,user_id) values (null,'Who was the first woman to preside over the American Physical Society?',"['a.Lyza Overcraft','b.Virginia Wolff','c.Chien-Chiung Wu','d.Ampar Moliner']",3,1);
+
+
+
